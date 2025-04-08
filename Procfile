@@ -1,0 +1,1 @@
+web: gunicorn TY_IT_8Sept.wsgi --log-file -
